@@ -1,2 +1,2 @@
-# react-todo-compo
+# react-todo
 Created with CodeSandbox
